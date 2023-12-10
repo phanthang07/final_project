@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../WorkSpace/BlockChain/BlockchainBitcoin/libs/sqlite-jdbc-3.34.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../WorkSpace/BlockChain/BlockchainBitcoin/libs/sqlite-jdbc-3.42.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
