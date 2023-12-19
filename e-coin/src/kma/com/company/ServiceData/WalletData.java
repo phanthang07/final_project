@@ -24,7 +24,6 @@ public class WalletData {
         return instance;
     }
 
-    //This will load your wallet from the database.
     public void loadWallet() throws SQLException, NoSuchAlgorithmException, InvalidKeySpecException {
         Connection walletConnection = DriverManager.getConnection("jdbc:sqlite:D:\\Project\\e-coin\\db\\wallet.db");
         Statement walletStatment = walletConnection.createStatement();
